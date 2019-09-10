@@ -9,24 +9,24 @@
   </head>
   <body>
   <header class="bg-dark">
-    <div class="text-center">
-      <img src="img/logo.png" alt="Logo FMCool">
+    <div class="text-center pb-5">
+      <a href="index.php"><img class="img-fluid mt-4" src="img/logo.png" alt="Logo FMCool"></a>
     </div>
     <ul class="nav justify-content-center">
       <li class="nav-item">
-        <a class="nav-link active" href="#">Home</a>
+        <a class="nav-link a-nav active" href="#">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Vida Cool</a>
+        <a class="nav-link a-nav" href="#">Vida Cool</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Ranking</a>
+        <a class="nav-link a-nav" href="#">Ranking</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Contacto</a>
+        <a class="nav-link a-nav" href="#">Contacto</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Login</a>
+        <a class="nav-link a-nav a-disabled" href="#" tabindex="-1" aria-disabled="true">Login</a>
       </li>
     </ul>
   </header>
